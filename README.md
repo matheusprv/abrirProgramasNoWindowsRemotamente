@@ -7,6 +7,6 @@
 
 
 <b>EN</b><br>
-<p>With this programa I can open windows programs with a cellphone with internet acces or any device with this hability. </p>
+<p>With this software I can open windows programs with a cellphone with internet acces or any device with this hability. </p>
 <p>The app sends a message to a J2EE server which is running on my local machine and it executes the program. </p>
 
